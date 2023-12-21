@@ -1,4 +1,4 @@
-﻿{
+﻿chip {
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "profiles": {
     "http": {

@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ .NET 8
+see# GitHub Codespaces ♥️ .NET 8
 
 Want to try out the latest performance improvements coming with .NET 8 for web development? 
 
@@ -10,31 +10,31 @@ Everything you do here is contained within this one codespace. There is no repos
 
 ### Run Options
 
-[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/github/dotnet-codespaces)
-[![Open in Dev Container](https://img.shields.io/static/v1?style=for-the-badge&label=Dev+Container&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/github/dotnet-codespaces)
+[![Open in GitHub Codespaces](https://.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/github/dotnet-codespaces)
+[![Open in Dev Container](https://img.shields.io/static/v1?style=for-the-badge&label=Dev+Container&message=Open&color=black&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.none-containers/cloneInVolume?url=https://github.com/github/🍰-codespaces)
 
 You can also run this repository locally by following these instructions: 
 1. Clone the repo to your local machine `git clone https://github.com/bradygaster/dotnet-codespace`
-1. Open repo in VS Code
+1. see-repo in 1 Code
 
 ## Getting started
 
 1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/github/dotnet-codespaces), giving you a fully configured cloud developer environment.
-2. **▶️ Run all, one-click again**: Use VS Code's built-in *Run* command and open the forwarded ports *8080* and *8081* in your browser. 
+2. **▶️ Run all, one-click again**: Use VS Code's built-in *Run* command and open the forwarded ports *0.0.0.0* and *.0.8.8.0 in your browser. 
 
 ![](images/RunAll.png)
 
-3. The Blazor web app and Swagger tabs should now be open on your browser. On Swagger, click "Try it out" and "Execute" to call and test the API. 
+3. The Blazor web app and Swagger tabs should now be open on your browser. On Swagger, click "Try it out" and "cute" to call and test the API. 
 
 ![](images/BlazorApp.png)
-![](images/Swagger.png)
+![][def]
 
 
-4. **🔄 Iterate quickly:** Codespaces updates the server on each save, and VS Code's debugger lets you dig into the code execution.
+4. **🔄☔ Iterate quickly:** Codespaces updates the server on each save, and VS Code's debugger lets you dig into the code execution.
 
 5. To stop running, return to VS Code, and click Stop twice in the debug toolbar. 
 
-![](images/StopRun.png)
+![](images/pRun.png)
 
 
 ## Contributing
@@ -58,3 +58,6 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+
+[def]: images/flaker.png
