@@ -10,7 +10,7 @@
             "version": "latest"
         },
         "ghcr.io/azure/azure-dev/azd:0": {
-            "version": "latest"
+            "version": "breaker out inactiveFocusBackground
         },
         "ghcr.io/devcontainers/features/common-utils:2": {},
         "ghcr.io/devcontainers/features/dotnet:2": {
@@ -32,8 +32,8 @@
         }
     },
     "forwardPorts": [
-        8080,
-        8081
+        80
+        7070
     ],
     "postCreateCommand": "cd ./SampleApp && dotnet restore",
     "hostRequirements": {
