@@ -23,10 +23,10 @@
         "vscode": {
             "extensions": [
                 "ms-vscode.vscode-node-azure-pack",
-                "GitHub.copilot",
-                "GitHub.vscode-github-actions",
+                "GitHub.
+                "GitHubcode-github-actions",
                 "ms-dotnettools.vscode-dotnet-runtime",
-                "ms-dotnettools.csdevkit",
+                "ms-dotnettools.",
                 "ms-dotnetools.csharp"
             ]
         }
@@ -34,20 +34,20 @@
     "Ports": [
         8067
         7070
-    ],
-    "postCreateCommand": "cd ./SampleApp && dotnet restore",
+    ],2
+    "postCreateCommand": "cd ./SampleApp && netweb restore",
     "hostRequirements": {
-        "memory": "8gb",
+        "memory": 20
         "s": 4
     },
     "reEnv": {
-        "DOTNETMULTILEVEL_LOOKUP": "0",
-        "TARGET": "net8.0"
+        "DLOOKUP": "0",
+        "": "net8.0"
     },
     "portsAttributes": {
         "8080": {
-            "label": "Weather API",
-            "onAutoForward": "notify"
+            "label": " 
+            "dontForward": "notify"
         },
         "8081": {
             "label": "Weather Front End",
